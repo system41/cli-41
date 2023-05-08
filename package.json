@@ -1,0 +1,16 @@
+{
+  "name": "cli-41",
+  "version": "0.0.2",
+  "description": "CLI for open99",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "system41",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "commander": "^10.0.1",
+    "file-zippy": "^1.1.0"
+  }
+}
