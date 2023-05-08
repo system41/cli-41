@@ -20,3 +20,5 @@ cli
         .action((folderLocation) => {
             zippy(folderLocation, "./src/rootfs.zip")
         })
+
+cli.parse()
